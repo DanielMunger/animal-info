@@ -1,0 +1,7 @@
+img {
+  width: 300px;
+}
+
+.snake-info, .turtle-info, .insect-info {
+  display: none;
+}
